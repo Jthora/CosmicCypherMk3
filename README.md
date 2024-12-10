@@ -6,6 +6,8 @@ The Mk3 Cosmic Cypher - Universal Symbology
 
 ---
 
+![Cosmic Cypher Mk3](./CosmicCypher_Mk3_2024-10-w1024px.png)
+
 ## **License:**  
 This document is released under the **Creative Commons Zero (CC0) Public Domain Dedication**. By releasing this work under CC0, the creator waives all copyright and related rights, dedicating it to the public domain worldwide. This ensures anyone can freely use, share, remix, transform, and build upon the material without restriction.
 
