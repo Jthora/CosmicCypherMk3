@@ -1,9 +1,7 @@
 # The Mk3 Cosmic Cypher - Universal Symbology
-### CosmicCypherMk3: A Universal Symbolic Framework for Cosmic, Emotional, and Logical Systems
-
 ## Creative Commons Zero Defensive Publication
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14357306.svg)](https://doi.org/10.5281/zenodo.14357306)
-
+### CosmicCypherMk3: A Universal Symbolic Framework for Cosmic, Emotional, and Logical Systems
 ---
 
 ![Cosmic Cypher Mk3](./CosmicCypher_Mk3_2024-10-w1024px.png)
