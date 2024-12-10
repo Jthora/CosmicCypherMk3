@@ -102,3 +102,12 @@ If you choose to attribute, please credit:
 **Jordan Traña - Archangel Agency, LLC**  
 
 Feel free to share your adaptations, uses, or feedback to contribute to the evolution of the Cosmic Cypher system.
+
+### Contact Information
+
+The **cosmos itself** is the ultimate maintainer, responsible for overseeing the universal development of geometry, reviewing contributions, and ensuring the project's quality and direction.
+
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jtqfC9kqRj)
+
+Join our discussion on Discord:  
+[![Join Our Discord](https://img.shields.io/discord/1279247884537171999?logo=discord)](https://discord.gg/jtqfC9kqRj)
